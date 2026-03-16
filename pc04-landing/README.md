@@ -13,6 +13,14 @@ Landing page demo phong cách glass liquid cho trang chủ Phòng PC04 TP.HCM ph
 - Mở trực tiếp file `index.html` trong trình duyệt
 - Hoặc chạy một static server tại thư mục này
 
+## GitHub Pages
+
+Repo đã được chuẩn bị workflow để deploy bằng GitHub Pages qua GitHub Actions.
+
+Sau khi bật Pages trong repo, site dự kiến sẽ có dạng:
+
+- `https://nguyenthanhnamt39.github.io/pc04-landing/`
+
 ## Hướng phát triển tiếp
 
 - Gắn logo thật của đơn vị
