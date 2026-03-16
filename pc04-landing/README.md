@@ -15,7 +15,7 @@ Landing page demo phong cách glass liquid cho trang chủ Phòng PC04 TP.HCM ph
 
 ## GitHub Pages
 
-Repo đã được chuẩn bị workflow để deploy bằng GitHub Pages qua GitHub Actions.
+Repo đã được chuẩn bị workflow ở cấp root để deploy thư mục `pc04-landing/` bằng GitHub Pages qua GitHub Actions.
 
 Sau khi bật Pages trong repo, site dự kiến sẽ có dạng:
 
